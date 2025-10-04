@@ -1,2 +1,8 @@
+.holder {
+  display: flex;             
+  flex-wrap: wrap;          
+  justify-content: space-around; 
+  gap: 20px;                
+}
 
 /* Your CSS Code here. */
